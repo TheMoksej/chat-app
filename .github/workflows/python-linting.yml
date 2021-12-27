@@ -20,6 +20,5 @@ jobs:
         uses: py-actions/flake8@v2
         with:
           ignore: "F821, F722"
-          exclude: ""
           max-line-length: "120"
           path: ""
