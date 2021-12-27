@@ -1,2 +1,3 @@
-# chat-app
-A basic chat app written in Python
+Work in progress...
+
+_This will take a while_
