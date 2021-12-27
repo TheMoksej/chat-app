@@ -19,6 +19,6 @@ jobs:
       - name: flake8 Lint
         uses: py-actions/flake8@v2
         with:
-          ignore: "F821, F722"
+          ignore: "F821,F722"
           max-line-length: "120"
           path: ""
